@@ -1,2 +1,2 @@
 # primeiro-repo
-primeiro repo kkkk
+terminar currículo
