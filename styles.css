@@ -1,0 +1,28 @@
+.profile {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    max-width: 600px;
+    margin: 24px;
+}
+.profile img {
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+}
+.info h2 {
+    margin: 0 0 8px 0;
+}
+.info p {
+    margin: 6px 0;
+}
+.label {
+    font-weight: 700;
+    display: inline-block;
+    width: 150px;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
